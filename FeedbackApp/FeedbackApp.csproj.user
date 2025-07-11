@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\CategoryForms\CategoryDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CategoryForms\CreateCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CategoryForms\UpdateCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FeedbackForms\CreateFeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FeedbackForms\FeedbackDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FeedbackForms\UpdateFeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\UserForms\CreateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\UserForms\UpdateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\UserForms\UserDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
